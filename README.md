@@ -4,7 +4,6 @@
 
 Soy un **desarrollador web fullstack con más de 3 años de experiencia** en la creación de aplicaciones web robustas y escalables.  
 Me apasiona enfrentar nuevos desafíos que impulsen mi crecimiento tanto profesional como personal.  
-Mi enfoque se basa en el dominio de tecnologías innovadoras y la colaboración en equipos dinámicos, donde puedo contribuir con soluciones efectivas y seguir ampliando mis habilidades.
 
 📍 **Ubicación:** La Habana, Cuba  
 📧 **Email:** [ortegasorzanod@gmail.com](mailto:ortegasorzanod@gmail.com)  
