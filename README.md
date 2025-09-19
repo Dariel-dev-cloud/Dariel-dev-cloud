@@ -35,88 +35,33 @@ Mi enfoque se basa en el dominio de tecnologías innovadoras y la colaboración 
 ## 💻 Tecnologías y habilidades
 
 ### 🌐 Frontend Frameworks
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=react" width="50"/>
-    <figcaption>React</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=next" width="50"/>
-    <figcaption>Next.js</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=astro" width="50"/>
-    <figcaption>Astro</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-    <figcaption>TailwindCSS</figcaption>
-  </figure>
-</p>
+| | | | |
+|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=react" width="50"/> <br> React | <img src="https://skillicons.dev/icons?i=next" width="50"/> <br> Next.js | <img src="https://skillicons.dev/icons?i=astro" width="50"/> <br> Astro | <img src="https://skillicons.dev/icons?i=tailwind" width="50"/> <br> TailwindCSS |
 
 ### 💻 Lenguajes de Programación
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=js" width="50"/>
-    <figcaption>JavaScript</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=ts" width="50"/>
-    <figcaption>TypeScript</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=html" width="50"/>
-    <figcaption>HTML</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=css" width="50"/>
-    <figcaption>CSS</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=java" width="50"/>
-    <figcaption>Java</figcaption>
-  </figure>
-</p>
+| | | | | |
+|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=js" width="50"/> <br> JavaScript | <img src="https://skillicons.dev/icons?i=ts" width="50"/> <br> TypeScript | <img src="https://skillicons.dev/icons?i=html" width="50"/> <br> HTML | <img src="https://skillicons.dev/icons?i=css" width="50"/> <br> CSS | <img src="https://skillicons.dev/icons?i=java" width="50"/> <br> Java |
 
 ### ⚙️ Backend & Frameworks
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-    <figcaption>Node.js</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=express" width="50"/>
-    <figcaption>Express</figcaption>
-  </figure>
-</p>
+| | |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="50"/> <br> Node.js | <img src="https://skillicons.dev/icons?i=express" width="50"/> <br> Express |
 
 ### 🗄️ Bases de Datos
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
-    <figcaption>PostgreSQL</figcaption>
-  </figure>
-</p>
+| |
+|---|
+| <img src="https://skillicons.dev/icons?i=postgres" width="50"/> <br> PostgreSQL |
 
 ### 🛠️ Otras Herramientas
-<p align="left">
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=github" width="50"/>
-    <figcaption>GitHub</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=gitlab" width="50"/>
-    <figcaption>GitLab</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:10px;">
-    <img src="https://skillicons.dev/icons?i=vite" width="50"/>
-    <figcaption>Vite</figcaption>
-  </figure>
-</p>
+| | | |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=github" width="50"/> <br> GitHub | <img src="https://skillicons.dev/icons?i=gitlab" width="50"/> <br> GitLab | <img src="https://skillicons.dev/icons?i=vite" width="50"/> <br> Vite |
 
-- Prisma ORM  
-- Shadcn  
-- Zustand  
-- Clerk.js  
+📌 También trabajo con: **Prisma ORM, Shadcn, Zustand, Clerk.js**
 
 ---
+
+Última actualización: 19/09/2025
+
